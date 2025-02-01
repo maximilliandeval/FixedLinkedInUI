@@ -12,3 +12,7 @@ style="min-width: 20px;"
 
 purple icon represents CSS in chrome dev tools
 orange represents js
+
+I have uBlock Origin Chrome Extension installed (https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)
+
+Before screenshot was taken on 1/28/2025 in Google Chrome
